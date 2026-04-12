@@ -1,3 +1,11 @@
+# 前言
+
+如果您想要搬运发布 请标注作者名字,以及它是做什么用的。不能用于商业售卖。
+
+# Preface
+
+If you want to repost or publish, please indicate the author's name and what it is used for. It cannot be used for commercial sale.
+
 # Py 浮动窗口资源监视器
 这个是DeepSeek写的基于py浮动窗口性能监视器(浮动窗口在活跃窗口上方) 原因是我找到很少的类似资源监视器 让AI写了一份 您可以下载 然后修改它 它是完全公开的。 它会在活跃窗口上显示一个浮动窗口 并显示程序的 PID CPU占用和内存占用
 出现严重的问题是豆包修复的 代码无毒
